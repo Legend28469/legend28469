@@ -33,5 +33,7 @@
 </div>
 
 <!-- Credit to 
-  https://github.com/denvercoder1/readme-typing-svg - The typing SVG at the top
+  https://github.com/denvercoder1/readme-typing-svg - Typing SVG
+  https://github.com/anuraghazra/github-readme-stats - Stat
+  https://github.com/ryo-ma/github-profile-trophy - Trophies
 -->
